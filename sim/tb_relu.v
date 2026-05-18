@@ -14,7 +14,7 @@ module tb_relu;
 
     initial begin
         $display("--------------------------------------");
-        $display("Step 2: ReLU Activation Test");
+        $display("ReLU Activation Test");
         $display("--------------------------------------");
 
         data_in = -32'sd10;
